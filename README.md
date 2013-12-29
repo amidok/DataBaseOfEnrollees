@@ -8,4 +8,4 @@ DataBase of Enrolles - программа, которая работает с б
 =========
 В текущей версии приложения полиморфизм отсутствует. В дальнейшем планируется различать контингент абитуриентов по критерям: "обычный" и "льготник".
 
-                                         <a href="https://github.com/amidok/DataBaseOfEnrollees/issues/1">Комментарии</a>
+<a href="https://github.com/amidok/DataBaseOfEnrollees/issues/1">Комментарии</a>
